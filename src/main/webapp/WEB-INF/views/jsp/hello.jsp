@@ -32,7 +32,7 @@
 		</c:if>
     </p>
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button-on-click">Learn more</a>
 	</p>
 	</div>
 </div>
@@ -42,14 +42,14 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>ABC</p>
+		<p>kiran</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>ABC</p>
+		<p>harish</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
